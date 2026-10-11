@@ -1,6 +1,6 @@
 login_password: ExpenseApp@1
-login_host: db.lr1394.site
+login_host: db.tholo.shop
 login_user: root
-DB_HOST: db.lr1394.site
+DB_HOST: db.tholo.shop
 app_location: /app
 component: backend
